@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hello there, I'm Allexandre Santos! 👋
 
 <!--
 **AllexandreSantos/AllexandreSantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm a <s>electrical engineer</s> <s>mathematician/math teacher</s> <s>musician</s> Android Java/Kotlin Developer based at Curitiba, Brazil
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Since 2020 I've been living and breathing Android Development. Start it all out using good ole Java and later on moving to Kotlin (which, btw, is the Bee's Knees :honeybee:). In the mean time I've had the chance to work with some great people and learn alot about <s>navigating through Stack Overflow</s> software development and the latest features in Kotlin.
+
+> "Programming isn't about what you know; it's about what you can figure out."
+
+### What I'm focusing on :computer:
+
+I'm passionate about learning and right now I'm focusing on the best sofware architectures and decoupling patterns for big projects inside the Android environment.
+
+### Where to find me :milky_way: :earth_americas:
+
+[LinkedIn](https://www.linkedin.com/in/allexandre-santos) :link:
+[GooglePlay](https://play.google.com/store/apps/developer?id=Axis+Applications) :link:
+
+
