@@ -1,6 +1,6 @@
 ### Hello there, I'm Allexandre Santos! 👋
 
-I'm a <s>electrical engineer</s> <s>mathematician/math teacher</s> <s>musician</s> Android Java/Kotlin Developer based at Curitiba, Brazil
+I'm an <s>electrical engineer</s> <s>mathematician/math teacher</s> <s>musician</s> Android Java/Kotlin Developer based at Curitiba, Brazil
 
 Since 2020 I've been living and breathing Android Development. Start it all out using good ole Java and later on moving to Kotlin (which, btw, is the Bee's Knees :honeybee:). In the mean time I've had the chance to work with some great people and learn alot about <s>navigating through Stack Overflow</s> software development and the latest features in Kotlin.
 
