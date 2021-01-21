@@ -1,4 +1,4 @@
-### Hello there, I'm Allexandre Santos! 👋
+### Hello there, I'm Allexandre Santos! 👋 :metal:
 
 I'm an <s>electrical engineer</s> <s>mathematician/math teacher</s> <s>musician</s> Android Java/Kotlin Developer based at Curitiba, Brazil
 
@@ -6,7 +6,7 @@ Since 2020 I've been living and breathing Android Development. Start it all out 
 
 > "Programming isn't about what you know; it's about what you can figure out."
 
-### What I'm focusing on :computer:
+### What I'm focusing on :computer: :notebook:
 
 I'm passionate about learning and right now I'm focusing on the best sofware architectures and decoupling patterns for big projects inside the Android environment.
 
