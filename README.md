@@ -12,7 +12,7 @@ I'm passionate about learning and right now I'm focusing on the best sofware arc
 
 ### Where to find me :milky_way: :earth_americas:
 
-[LinkedIn](https://www.linkedin.com/in/allexandre-santos) :link:
-[GooglePlay](https://play.google.com/store/apps/developer?id=Axis+Applications) :link:
+:link: [LinkedIn](https://www.linkedin.com/in/allexandre-santos)
+:link: [GooglePlay](https://play.google.com/store/apps/developer?id=Axis+Applications)
 
 
